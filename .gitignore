@@ -1,0 +1,11 @@
+# Laravel 4
+.env.*.php
+.env.php
+
+# Editors files
+*.swp
+*~
+.DS_Store
+*.project
+*.sublime-project
+*.sublime-workspace
