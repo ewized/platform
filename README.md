@@ -13,5 +13,5 @@ that makes loading `OOP Classes` and `Functions` with out the need of excessive
 This script is licensed under the [GNU General Public License][license], version 3.
 Copyright &copy; 2014 Joshua Rodriguez [www.ewized.com][ewized]
 
-[license]: //www.gnu.org/copyleft/gpl.html
-[ewized]: //www.ewized.com/
+[license]: https://www.gnu.org/copyleft/gpl.html
+[ewized]: http://www.ewized.com/
